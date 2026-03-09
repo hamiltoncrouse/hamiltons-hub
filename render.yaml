@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: hamiltons-hub
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
-    plan: free
